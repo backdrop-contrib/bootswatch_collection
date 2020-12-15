@@ -1,5 +1,5 @@
-# bootswatch_collection
-All available Bootswatch themes, implemented as Bootstrap Lite subthemes
+# Bootswatch Collection for Backdrop CMS
+All available Bootswatch themes, implemented as Backdrop Bootstrap Lite subthemes
 
 This collection of themes is intended to be an easy way for Backdrop site builders
 to make use of the nice collection of free Bootstrap subthemes available from
