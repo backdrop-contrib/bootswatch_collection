@@ -9,4 +9,6 @@ These themes were already available in the Bootstrap Lite, in the Settings, but
 they were a little hard to find.  Bootswatch Collection makes each of the
 Bootswatch themes available individually.
 
+![bootswatch_previews](bootswatch_previews.png)
+
 Licensing to be determined.
